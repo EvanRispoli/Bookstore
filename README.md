@@ -5,20 +5,12 @@ Este projeto foi realizado seguindo os passos da documentação [Microsoft](http
 
 Neste projeto, Foram realizadas as seguintes atividades:
 
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
+- [x] Configuração MongoDB
+- [x] Criação um banco de dados MongoDB
+- [x] Definindo uma coleção e esquema do MongoDB
+- [x] Executando operações CRUD do MongoDB a partir de uma API da web
+- [x] Personalizando a serialização JSON
 
-<ul ">
-  <li>Configuração MongoDB </li>                                
-  <li>Criação um banco de dados MongoDB </li>
-  <li>Definindo uma coleção e esquema do MongoDB </li> 
-  <li>Executando operações CRUD do MongoDB a partir de uma API da web </li>
-  <li>Personalizando a serialização JSON</li>                               
- </ul>
-
-  
-  
 
 # Bookstore (English)
 

@@ -23,11 +23,11 @@ This project was carried out following the steps of the documentation [Microsoft
 
 In this project, the following activities were carried out:
 
-  - []✅ Mongodb configuration
-  - []✅ Creating a Mongodb database
-  - []✅ Defining a Mongodb collection and scheme
-  - []✅ Running Mongodb CRUD operations from a web API
-  - []✅ Customizing the JSON serialization
+  - [ ]✅ Mongodb configuration
+  - [ ]✅ Creating a Mongodb database
+  - [ ]✅ Defining a Mongodb collection and scheme
+  - [ ]✅ Running Mongodb CRUD operations from a web API
+  - [ ]✅ Customizing the JSON serialization
 
 
 # Bookstore(Français)

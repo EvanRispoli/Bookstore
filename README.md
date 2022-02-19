@@ -5,6 +5,10 @@ Este projeto foi realizado seguindo os passos da documentação [Microsoft](http
 
 Neste projeto, Foram realizadas as seguintes atividades:
 
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
+
 <ul ">
   <li>Configuração MongoDB </li>                                
   <li>Criação um banco de dados MongoDB </li>

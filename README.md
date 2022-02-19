@@ -5,11 +5,16 @@ Este projeto foi realizado seguindo os passos da documentação disponível em :
 
 Neste projeto, Foram realizadas as seguintes atividades:
 
-  ✅ Configuração MongoDB
-  ✅ Criação um banco de dados MongoDB
-  ✅ Definindo uma coleção e esquema do MongoDB
-  ✅ Executando operações CRUD do MongoDB a partir de uma API da web
-  ✅ Personalizando a serialização JSON
+<ul>
+  <li>✅ Configuração MongoDB </li>
+  <li>✅ Criação um banco de dados MongoDB </li>
+  <li>✅ Definindo uma coleção e esquema do MongoDB </li>
+  <li>✅ Executando operações CRUD do MongoDB a partir de uma API da web </li>
+  <li>✅ Personalizando a serialização JSON</li>
+ </ul>
+
+  
+  
 
 # Bookstore (English)
 

@@ -5,13 +5,13 @@ Este projeto foi realizado seguindo os passos da documentação disponível em :
 
 Neste projeto, Foram realizadas as seguintes atividades:
 
-<ul style= "list-style-type: none;">
-  <li>✅ Configuração MongoDB </li>
-  <li>✅ Criação um banco de dados MongoDB </li>
-  <li>✅ Definindo uma coleção e esquema do MongoDB </li>
-  <li>✅ Executando operações CRUD do MongoDB a partir de uma API da web </li>
-  <li>✅ Personalizando a serialização JSON</li>
- </ul>
+<ol style= "list-style-type: none;">
+  <li>Configuração MongoDB </li>                                            ✅ 
+  <li>Criação um banco de dados MongoDB </li>                               ✅ 
+  <li>Definindo uma coleção e esquema do MongoDB </li>                      ✅ 
+  <li>Executando operações CRUD do MongoDB a partir de uma API da web </li> ✅ 
+  <li>Personalizando a serialização JSON</li>                               ✅ 
+ </ol>
 
   
   

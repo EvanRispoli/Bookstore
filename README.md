@@ -4,7 +4,9 @@ Criação da minha primeira Api utilizando .Net.
 Este projeto foi realizado seguindo os passos da documentação disponível em : https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mongo-app?view=aspnetcore-6.0&tabs=visual-studio
 
 Neste projeto, Foram realizadas as seguintes atividades:
-
+<style>
+li {list-style-type: none;} 
+</style>
 <ul>
   <li>✅ Configuração MongoDB </li>
   <li>✅ Criação um banco de dados MongoDB </li>

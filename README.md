@@ -5,7 +5,7 @@ Este projeto foi realizado seguindo os passos da documentação [Microsoft](http
 
 Neste projeto, Foram realizadas as seguintes atividades:
 
-  [✅] Configuração MongoDB
+  - [✅] Configuração MongoDB
   ✅ Criação um banco de dados MongoDB
   ✅ Definindo uma coleção e esquema do MongoDB
   ✅ Executando operações CRUD do MongoDB a partir de uma API da web
